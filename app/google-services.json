@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1066046345971",
+    "project_id": "lab-project-060",
+    "storage_bucket": "lab-project-060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066046345971:android:b32b687b3ee6dae38c9d86",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066046345971-8skpti5km3896vl050t2a9q3fhnarcqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMKaRMxAWrTjnoF2pe_bhy3U6bG_Dkvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066046345971-8skpti5km3896vl050t2a9q3fhnarcqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066046345971:android:e71f72d7e63c475c8c9d86",
+        "android_client_info": {
+          "package_name": "com.pscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066046345971-jdj7kuji806ldl16v4041c8ht5fnhkf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pscanner",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1066046345971-8skpti5km3896vl050t2a9q3fhnarcqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMKaRMxAWrTjnoF2pe_bhy3U6bG_Dkvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066046345971-8skpti5km3896vl050t2a9q3fhnarcqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066046345971:android:a6dc6131cd42716c8c9d86",
+        "android_client_info": {
+          "package_name": "com.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066046345971-8skpti5km3896vl050t2a9q3fhnarcqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMKaRMxAWrTjnoF2pe_bhy3U6bG_Dkvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066046345971-8skpti5km3896vl050t2a9q3fhnarcqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
